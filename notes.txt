@@ -1,0 +1,4 @@
+--use good commit msg
+--use checkout to check-out old commits
+--use clone to sync git repository
+--use git push to udpate orginal 
